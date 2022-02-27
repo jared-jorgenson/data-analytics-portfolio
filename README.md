@@ -3,7 +3,7 @@ A collection of selected data analytics projects to demonstrate key skills and i
 
 ## Content
 ### Python
-- Data collection using BeautifulSoup to scrape data from IMDB (imdb_scraper.py).
+- Data collection using BeautifulSoup to scrape data from IMDB.
 
 ### R
 

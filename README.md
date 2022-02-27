@@ -6,7 +6,7 @@ A collection of selected data analytics projects to demonstrate key skills and i
 - Data collection using BeautifulSoup to scrape data from IMDB.
 
 ### R
-- Exploration into Lichess Dataset including visualisations. R Notebook report created showcasing the findings.
+- Exploration into Lichess Dataset including visualisations, used an R Notebook to create a report showcasing the findings.
 
 ### SQL
 

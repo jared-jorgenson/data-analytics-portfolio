@@ -93,7 +93,7 @@ chess_games %>% filter(rated == "TRUE") %>%
 
 We can see a direct correlation between white rating and black rating in the above visual. For this reason all of the analysis in this section will only include rated games. Also when we compare rating blocks we will only use white pieces as, in the graph above shows, the average rating of the white pieces in each game is very close to that of the black pieces. Another reason we will only use rated games is in custom games players with very high rating can match with players with very low ratings which does not give a fair representation of how games increase as both players rating increases.
 
-For the first visual we will showcase how victory by colour of piece 
+For the first visual we will showcase how victory by colour of piece and type of victory changes when we look at white's rating when its above and equal to 2000 and below 2000.
 
 ```{r, fig.show="hold", out.width="50%", echo=FALSE}
 chess_games %>% filter(winner != "draw", white_rating >= 2000) %>%
@@ -125,7 +125,7 @@ chess_games %>% filter(winner != "draw", white_rating < 2000) %>%
         panel.grid.minor = element_blank())
 ```
 
-As we can see by the side by side graphs above the portion of checkmates decrease as rating increases.
+As we can see by the side by side graphs above the portion of checkmates decrease as rating increases. We also see a higher win percentage for the white pieces as rating increases. We can also see that as rating improves the biggest victory type is via resign. This further suggests that to get better positional play may be the best course to getting better at chess.
 
 ## Conclusion of the Analysis
 

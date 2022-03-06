@@ -4,6 +4,7 @@ A collection of selected data analytics projects to demonstrate key skills and i
 ## Content
 ### Python
 - Data collection using BeautifulSoup to scrape data from IMDB.
+- Exploration of stop and search data in Merseyside [Pandas, Matplotlib]
 
 ### R
 - Exploration into Lichess Dataset including visualisations, used an R Notebook to create a report showcasing the findings.

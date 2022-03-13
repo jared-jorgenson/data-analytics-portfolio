@@ -1,6 +1,6 @@
 # Exploring Stop and Search data in Merseyside
 
-## Introduction
+## Overview
 In this case study I will anaylyse stop and searchd data collected from https://data.police.uk/. I specifically analyse stop and search data from Merseyside in December 2021. The analysis includes preparing and exploring the data and cleaning the data. After the data was cleaned, I analyzed the data and made visuals to illustrate the findings of the analysis.
 
 ## Future Releases
